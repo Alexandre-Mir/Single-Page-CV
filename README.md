@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Currículo Single Page
 
 Um currículo profissional em formato single-page, construído com HTML semântico e otimizado para acessibilidade e SEO.
@@ -101,3 +102,6 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 Desenvolvido por [Alexandre Miranda](https://github.com/Alexandre-Mir)
 
 https://roadmap.sh/projects/single-page-cv
+=======
+# Single-Page-CV
+>>>>>>> 6ba81864135b688fa4ab01cd160df31e88cadfd0
